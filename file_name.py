@@ -15,7 +15,7 @@ def write_file_list_to_txt(file_list, output_file):
     print("Dosya listesi başarıyla oluşturuldu.")
 
 # Ana dizin ve uzantıyı belirleyin
-directory = r"D:\Onur\e-kitap"  # r ön ekini kullanarak kaçış dizilerini yok sayın
+directory = r"D:\User\file_name"  # r ön ekini kullanarak kaçış dizilerini yok sayın
 extension = ".epub"
 
 # Dosya listesini bul
